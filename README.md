@@ -1,1 +1,1 @@
-# Akhmedinov Ruslan 323gr. Calc
+# Calc
